@@ -42,3 +42,5 @@ principal.java: Classe de teste onde o Array de objetos é instanciado e as apre
 ![Interface do Banco](img/luta5.png)
 ![Interface do Banco](img/luta6.png)
 ![Interface do Banco](img/luta7.png)
+![Interface do Banco](img/luta8.png)
+![Interface do Banco](img/luta9.png)
